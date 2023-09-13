@@ -205,12 +205,14 @@ body {
 
 .title__find {
   font-size: 35px;
+  margin: 0 25px;
 }
 /* footer */
 
 .footer {
   background-color: var(--very-light-gray);
   padding-top: 20px;
+  padding-bottom: 35px;
 }
 .footer__brand {
   display: flex;
@@ -442,6 +444,7 @@ body {
   .title__find {
     font-size: 35px;
     width: 60%;
+    
   }
 
   .footer {
